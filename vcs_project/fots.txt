@@ -1,0 +1,27 @@
+<link href="https://fonts.googleapis.com/css?family=Cherry+Swash:400,700&amp;subset=latin-ext" rel="stylesheet">
+
+font-family: 'Cherry Swash', cursive;
+
+photoshopas rodo kad reikia man helvetikos analogas jam Arial
+
+spalvos:
+
+logo: ffffff   Balta
+nav: dce3e4
+nav hovered: ffffff
+h1: e4e4e4
+read more myktuko tekstas: e4e4e4
+read more mykgtuko border: afb1b4
+bullet not active: ffffff
+bullet active: 69728c
+antros section Background: ffffff
+tekstas baltam begraunde: 4c505d
+ikonu spalva: 5eb6c4
+trecios sekcijos ir footerio spalva ir submit formos: 00d089
+trecios sekcijos vardo spalva: e4e4e4
+trecios sekcijos dideles kabutes: 58daa5
+trecios sekcijos paragrafo spalava: ffffff
+Inputo apskritimo spalva: rgba(255, 255, 255, .85)
+inputo teksto pasiulumo spalva: b4b5b9
+inputo boxo border spalva: d8d8d8
+foterio tekstas: ffffff
